@@ -6,7 +6,7 @@ const Header = () => {
     <nav className="navbar navbar-expand-lg main-header">
       <div className="container header-container">
 
-        <a className="logo navbar-brand"><h1>BOOKSAW</h1></a>
+       <a href="/" className="logo navbar-brand"><h1>BOOKSAW</h1></a>
 
         {/* Hamburger */}
         <button

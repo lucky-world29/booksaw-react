@@ -19,10 +19,10 @@ const Footer = () => {
           <div className="col-md-2 footer-col">
             <h4>Links</h4>
             <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Featured</a></li>
-              <li><a href="#">Popular</a></li>
-              <li><a href="#">Offers</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="/featured">Featured</a></li>
+              <li><a href="/popular">Popular</a></li>
+              <li><a href="/offers">Offers</a></li>
             </ul>
           </div>
 
@@ -30,10 +30,10 @@ const Footer = () => {
           <div className="col-md-3 footer-col">
             <h4>Categories</h4>
             <ul>
-              <li><a href="#">Fiction</a></li>
-              <li><a href="#">Romance</a></li>
-              <li><a href="#">Self Help</a></li>
-              <li><a href="#">Motivation</a></li>
+              <li><a href="/categories/fiction">Fiction</a></li>
+              <li><a href="/categories/romance">Romance</a></li>
+              <li><a href="/categories/self-help">Self Help</a></li>
+              <li><a href="/categories/motivation">Motivation</a></li>
             </ul>
           </div>
 
